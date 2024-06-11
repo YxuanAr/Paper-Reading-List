@@ -1,5 +1,5 @@
 # Paper-Reading-List
-new
-try to push
+This is a paper reading list for myself. I am focusing on the multimodal alignment and also interest in other area.
 
-another push
+## Auto-regressive Model for Vision Language
+ 
