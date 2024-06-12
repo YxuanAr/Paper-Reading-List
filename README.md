@@ -7,3 +7,4 @@ This is a paper reading list for myself. I am focusing on the multimodal alignme
 - \[2024.6.11\] \[ICL\] \[<font color=red>ICLR2024</font>\] [Beyond Task Performance: Evaluating and Reducing the Flaws of Large Multimodal Models with In-Context Learning.](https://arxiv.org/pdf/2310.00647) (Sorbonne Universite)
 - \[2024.6.11\] \[Understanding\] \[<font color=red>arxiv</font>\] [On the Out-Of-Distribution Generalization of Multimodal Large Language Models.](https://arxiv.org/pdf/2402.06599) (THU)
 - \[2024.6.11\] \[ICL\] \[<font color=red>arxiv</font>\] [Understanding and Improving In-Context Learning on Vision-language Models.](https://arxiv.org/pdf/2311.18021) (LMU,Oxford)
+- test new
