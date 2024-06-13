@@ -9,4 +9,6 @@ This is a paper reading list for myself. I am focusing on the multimodal alignme
 - \[2024.6.11\] \[ICL\] \[<font color=red>arxiv</font>\] [Understanding and Improving In-Context Learning on Vision-language Models.](https://arxiv.org/pdf/2311.18021) (LMU,Oxford)
 
 ## Outdoor Scene and Autonomous Driving
-- \[Completion\] \[CVPR2024*\] \[2024.6.13\] [PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness](https://arxiv.org/pdf/2312.02158) (TUM)
+- \[Completion\] \[CVPR2024*\] \[2024.6.13\] [PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness.](https://arxiv.org/pdf/2312.02158) (TUM)
+- \[LLM Agent\] \[CVPR2024\] \[2024.6.13\] [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents.](https://arxiv.org/pdf/2402.05746) (SHAILAB)
+- \[World Model\] \[NIPS2024\] \[2024.6.13\] [Enhancing End-to-End Autonomous Driving with Latent World Model.](https://arxiv.org/pdf/2406.08481v1) (CAS)
