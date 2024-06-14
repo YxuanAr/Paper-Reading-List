@@ -10,7 +10,7 @@ This is a paper reading list for myself. I am focusing on the multimodal alignme
 
 ## Point Cloud Base Model
 - \[Z-order，Decoder-only\] \[NIPS2023\] \[2024.6.14\] [PointGPT: Auto-regressively Generative Pre-training from Point Clouds.](https://arxiv.org/pdf/2305.11487) (BIT, PKU)
-- \[Z-order\] \[CVPR2024\] \[2024.6.14\] [Point Transformer V3: Simpler, Faster, Stronger.](https://arxiv.org/pdf/2312.10035) (HKU, SHAILAB)
+- \[Z-order\] \[CVPR2024*\] \[2024.6.14\] [Point Transformer V3: Simpler, Faster, Stronger.](https://arxiv.org/pdf/2312.10035) (HKU, SHAILAB)
 - \[Oct-order\] \[SIGGRAPH2023\] \[2024.6.14\] [OctFormer: Octree-based Transformers for 3D Point Clouds.](https://arxiv.org/pdf/2305.03045) (PKU)
 
 ## Outdoor Scene and Autonomous Driving
