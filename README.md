@@ -18,3 +18,5 @@ This is a paper reading list for myself. I am focusing on the multimodal alignme
 - \[LLM Agent\] \[CVPR2024\] \[2024.6.13\] [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents.](https://arxiv.org/pdf/2402.05746) (SHAILAB)
 - \[World Model\] \[NIPS2024\] \[2024.6.13\] [Enhancing End-to-End Autonomous Driving with Latent World Model.](https://arxiv.org/pdf/2406.08481v1) (CAS)
 
+## Scene Reconstruction
+- \[Single image to 3D \] \[CVPR2024\] \[2024.6.17\] [L-MAGIC: Language Model Assisted Generation of Images with Coherence.](https://arxiv.org/pdf/2406.01843) (Intel Labs)
